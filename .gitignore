@@ -1,0 +1,10 @@
+/node_modules
+/logs
+*.log*
+.nuxt
+.vscode
+.DS_STORE
+yarn.lock
+package-lock.json
+.env
+.env.backup
